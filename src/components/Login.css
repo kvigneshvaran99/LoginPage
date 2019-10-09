@@ -1,0 +1,72 @@
+.Log{
+    background: url("https://images.unsplash.com/photo-1558981408-db0ecd8a1ee4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: absolute;
+     top: 0;
+   left: 0;
+   right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+}
+.Login{
+font-family: 'Open Sans Condensed', arial, sans;
+   width: 500px;
+   padding: 30px;
+   background: #FFFFFF;
+   margin: 50px auto;
+   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+   -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+   -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+}
+h2{
+   background: #4D4D4D;
+   text-transform: uppercase;
+   font-family: 'Open Sans Condensed', sans-serif;
+   color: #797979;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 20px;
+   margin: -30px -30px 30px -30px;
+}
+.Login Button
+{
+   -moz-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+   -webkit-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+   box-shadow: inset 0px 1px 0px 0px #45D6D6;
+   background-color: #2CBBBB;
+   border: 1px solid #27A0A0;
+   display: inline-block;
+   cursor: pointer;
+   color: #FFFFFF;
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-size: 14px;
+   padding: 8px 18px;
+   text-decoration: none;
+   text-transform: uppercase;
+}
+.Login Button:hover,
+.Login Button:hover {
+   background:linear-gradient(to bottom, #34CACA 5%, #30C9C9 100%);
+   background-color:#34CACA;
+}
+/* .Login input
+{
+   display: block;
+   box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   width: 100%;
+   padding: 8px;
+   border-radius: 6px;
+   -webkit-border-radius:6px;
+   -moz-border-radius:6px;
+   border: 2px solid #fff;
+   box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+   -moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+   -webkit-box-shadow: inset 0px 1px 1px rgba(184, 31, 31, 0.33);
+} */
